@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.20)  21 JUN 2024 15:12
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2024)  (format=lualatex 2024.6.20)  21 JUN 2024 16:31
  restricted system commands enabled.
 **CrumpCV_Template.tex
 (./CrumpCV_Template.tex
@@ -696,7 +696,51 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--74
 
  []
 
-! Misplaced alignment tab character &.
-l.94 ...ects for MQ1-C Grey Eagle for the US Army R&
-                                                  D for VR/XR/AR prototypes ...
-? 
+
+
+[1
+
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/m/n' will be
+(Font)              scaled to size 12.0pt on input line 125.
+LaTeX Font Info:    Font shape `TU/EBGaramond(0)/b/n' will be
+(Font)              scaled to size 12.0pt on input line 125.
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--186
+
+ []
+
+
+
+[2]
+
+[3] (./CrumpCV_Template.aux)
+ ***********
+LaTeX2e <2024-06-01> patch level 1
+L3 programming layer <2024-05-27>
+ ***********
+Package rerunfilecheck Info: File `CrumpCV_Template.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+)
+
+Here is how much of LuaTeX's memory you used:
+ 12476 strings out of 475931
+ 125056,1977958 words of node,token memory allocated
+ 421 words of node memory still in use:
+   3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 51 glue_spec,
+ 4 attribute_list, 1 write nodes
+   avail lists: 1:1,2:515,3:305,4:66,5:662,6:62,7:7147,8:1,9:337,10:5,11:554
+ 34770 multiletter control sequences out of 65536+600000
+ 79 fonts using 10426407 bytes
+ 94i,8n,123p,509b,474s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2024/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-Italic.o
+tf><c:/texlive/2024/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-Regul
+ar.otf><c:/texlive/2024/texmf-dist/fonts/opentype/public/ebgaramond/EBGaramond-B
+old.otf><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on CrumpCV_Template.pdf (3 pages, 38928 bytes).
+
+PDF statistics: 55 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 131072)
+ 1 words of extra memory for PDF output out of 10000 (max. 100000000)
+
